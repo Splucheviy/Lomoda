@@ -1,2 +1,2 @@
 # Lomoda
-https://kopypaster.github.io/Lomoda/
+https://Splucheviy.github.io/Lomoda/
